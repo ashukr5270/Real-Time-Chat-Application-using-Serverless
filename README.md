@@ -1,7 +1,6 @@
-wss://qqhpe3fcu3.execute-api.us-east-1.amazonaws.com/demo/
-
-
 # Real-Time-Chat-Application-using-Serverless:-
+
+(wss://qqhpe3fcu3.execute-api.us-east-1.amazonaws.com/demo/)
 
 
 
